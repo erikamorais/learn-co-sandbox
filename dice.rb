@@ -14,7 +14,6 @@ dice_rolls.each do |dice|
   total = total + dice
 end 
 puts total 
-end
 
 dice_roll
 
