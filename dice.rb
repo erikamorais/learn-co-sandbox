@@ -1,3 +1,4 @@
+def dice_roll
 dice = [1, 2, 3, 4, 5, 6]
 
 counter = 0
@@ -13,3 +14,4 @@ dice.sample.each do |dice.sample|
   total = total = dice.sample
 end 
 end
+dice_roll
