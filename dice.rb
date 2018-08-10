@@ -28,4 +28,4 @@ if total > computer_roll
   puts "You win!"
   elsif 
   puts "You lost :("
-  
+end 
