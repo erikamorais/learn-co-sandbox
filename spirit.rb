@@ -1,2 +1,2 @@
 spirit_week = {}
-spirit_week ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"] = pajama day, school pride, we wear pink on wednesdays, 
+spirit_week ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday",] = pajama day, school pride, we wear pink on wednesdays, 
