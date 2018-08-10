@@ -1,4 +1,4 @@
-
+def spirit
 spirit_week ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday",]
 options ["pajama day", "school pride", "we wear pink on wednesdays", "disney/movie characters", "fancy friday"]
 spirit_hash = {}
@@ -10,3 +10,4 @@ end
 puts spirit_week
 
   
+spirit
