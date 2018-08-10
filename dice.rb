@@ -29,3 +29,4 @@ if total > computer_roll
   elsif 
   puts "You lost :("
 end 
+end
