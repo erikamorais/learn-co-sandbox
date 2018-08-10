@@ -29,4 +29,3 @@ if total > computer_roll
   puts "You lost :("
 end 
 end
-end
