@@ -20,11 +20,12 @@ dice_roll
 
 
 computer_array = [1, 2, 4, 6, 13, 17, 18, 20, 22, 30, 29, 6, 8, 13, 14, 15, 17, 14, 16, 12, 22]
-computer_rolls = []
-counter = 0 
-while counter < 1 
-computer_rolls.push (computer_array.sample)
-counter += 1 
-end 
+puts total
+computer_roll = computer_array.sample
+puts computer_roll
 
-
+if total > computer_roll
+  puts "You win!"
+  elsif 
+  puts "You lost :("
+  
