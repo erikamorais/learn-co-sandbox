@@ -15,8 +15,6 @@ dice_rolls.each do |dice|
 end 
 puts total 
 
-dice_roll
-
 
 computer_array = [1, 2, 4, 6, 13, 17, 18, 20, 22, 30, 29, 6, 8, 13, 14, 15, 17, 14, 16, 12, 22]
 puts total
@@ -29,3 +27,4 @@ if total > computer_roll
   puts "You lost :("
 end 
 end
+dice_roll
