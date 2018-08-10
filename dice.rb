@@ -10,7 +10,7 @@ end
 
 total = 0 
 dice_rolls.each do |dice|
-  puts "#{dice}"
+  #puts "#{dice}"
   total = total + dice
 end 
 puts total 
