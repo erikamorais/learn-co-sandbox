@@ -18,4 +18,4 @@ end
 
 dice_roll
 
-computer_array = []
+computer_array = [1,2,]
