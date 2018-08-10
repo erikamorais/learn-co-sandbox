@@ -7,6 +7,6 @@ spirit_week.each do |days|
   spirit_hash[days] = options[counter]
   counter += 1 
 end 
-puts spirit_week
+puts spirit_hash
 
   
