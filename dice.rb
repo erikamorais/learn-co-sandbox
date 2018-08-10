@@ -7,7 +7,7 @@ counter += 1
 end 
 
 total = 0 
-dice.sample.each do |dice|
+dice.sample.each do |dice.sample|
   puts "#{dice.sample}"
   total = total = dice.sample
 end 
