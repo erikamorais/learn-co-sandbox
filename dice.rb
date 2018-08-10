@@ -17,3 +17,5 @@ puts total
 end
 
 dice_roll
+
+computer_array = []
