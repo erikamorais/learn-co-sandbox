@@ -6,5 +6,3 @@ counter = 0
 while counter < 5
 erikas_rolls.push(dice.sample)
 end 
-
-
