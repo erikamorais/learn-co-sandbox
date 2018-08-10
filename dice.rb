@@ -9,3 +9,6 @@ counter += 1
 end 
 end 
 dice_roll
+
+computer_rolls = [1,2,3,6,9,20]
+puts computer_rolls.sample
